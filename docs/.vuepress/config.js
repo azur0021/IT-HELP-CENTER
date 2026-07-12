@@ -86,14 +86,14 @@ module.exports = {
                   title:'报销问题自助解决指南',
                   path: '/guide/it_handbook/EA/'
                 },
-                {
-                  title: '邮箱操作指南',
-                  path: '/guide/it_handbook/foxmail/'
-                },
-                {
-                  title: '新打印机添加和配置',
-                  path: '/guide/it_handbook/print/'
-                },
+             //   {
+                //  title: '邮箱操作指南',
+              //    path: '/guide/it_handbook/foxmail/'
+              //  },
+             //   {
+              //    title: '新打印机添加和配置',
+               //   path: '/guide/it_handbook/print/'
+              //  },
                 {
                   title:'桌管软件自定义数据表单更新',
                   path:'/guide/it_handbook/ivanti/'
