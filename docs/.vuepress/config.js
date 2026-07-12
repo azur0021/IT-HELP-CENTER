@@ -7,6 +7,22 @@ module.exports = {
     // base: '/',       //设置站点根路径，如果访问的时候是ip+端口，那么这里就是/，如果访问的是ip+端口+工程名，那么这里就是/工程名/
     // dest: './ROOT',  // 设置编译后的输出目录./ROOT代表在工程的根目录下生成一个ROOT文件，里面是编译好的文件，可以拿ROOT直接部署。
     // port: 8086,      //本地调试的端口号，默认是8080
+  configureWebpack: {
+    module: {
+      rules: [
+        {
+          test: /\.(png|jpe?g|gif|svg)$/,
+          use: {
+            loader: 'file-loader',
+            options: {
+              // 如果文件不存在，不报错
+              emitFile: false
+            }
+          }
+        }
+      ]
+    }
+  },
     plugins: [
       ['@vuepress/plugin-fulltext-search',
       {
