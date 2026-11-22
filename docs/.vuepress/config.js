@@ -1,5 +1,5 @@
 module.exports = {
-    title: '优必选软件与帮助网站',
+    title: 'IT软件与帮助网站',
     description: '帮您快速找到所需信息，轻松解决工作中的小问题。',
     theme:'reco',
     base: '/',  
@@ -82,10 +82,10 @@ module.exports = {
                   title: '开源协议基础知识',
                   path: '/guide/it_handbook/compliance/'
                 },
-                {
-                  title:'报销问题自助解决指南',
-                  path: '/guide/it_handbook/EA/'
-                },
+              //  {
+                //  title:'报销问题自助解决指南',
+             //     path: '/guide/it_handbook/EA/'
+              //  },
              //   {
                 //  title: '邮箱操作指南',
               //    path: '/guide/it_handbook/foxmail/'
@@ -94,36 +94,37 @@ module.exports = {
               //    title: '新打印机添加和配置',
                //   path: '/guide/it_handbook/print/'
               //  },
-                {
-                  title:'桌管软件自定义数据表单更新',
-                  path:'/guide/it_handbook/ivanti/'
-                },
+               // {
+                //  title:'桌管软件自定义数据表单更新',
+                //  path:'/guide/it_handbook/ivanti/'
+                //},
                 // {
                 //   title:'杀毒软件安装指引',
                 //   path:'/guide/it_handbook/Symantec/'
                 // },
-                {
-                  title:'加密客户端使用指南',
-                  path:'/guide/it_handbook/esafenet/'
-                },
-                {
-                  title: 'WPS Ofiice操作指南',
-                  path: '/guide/it_handbook/wps/'
-                },
-                {
-                  title: 'Windows 清理 C 盘空间指导',
-                  path: '/guide/it_handbook/3/'
-                },
-                {
-                  title:'ERP常见故障处理',
-                  path:'/guide/it_handbook/K3/'
-                }
+              //  {
+               //   title:'加密客户端使用指南',
+               //   path:'/guide/it_handbook/esafenet/'
+              //  },
+              //  {
+               //   title: 'WPS Ofiice操作指南',
+               //   path: '/guide/it_handbook/wps/'
+             //   },
+              //  {
+              //    title: 'Windows 清理 C 盘空间指导',
+               //   path: '/guide/it_handbook/3/'
+               // },
+              //  {
+                //  title:'ERP常见故障处理',
+                //  path:'/guide/it_handbook/K3/'
+              //
+              //  }
               ]
         },
-        {
-          title:'⭐常见问题',
-          path:'/guide/'
-        }
+        //{
+       //   title:'⭐常见问题',
+       //   path:'/guide/'
+      //  }
       ],
   
   

@@ -5,22 +5,13 @@
     <!-- <div class="bdtip"  style="font-size:80%;" v-show="isDivVisible"> -->
     <!-- <div class="bdtip"  style="font-size:80%;" v-show="showElement">  -->
             <div class="bdtip">
-            <p style="color: rgb(195, 0, 13);font-weight: bold;margin-top: 3px;">需知</p>
+            <p style="color: rgb(195, 0, 13);font-weight: bold;margin-top: 3px;">IT帮助使用指南</p>
                 <ul v-show="isDivVisible">
-                    <li>携程商旅问题找周冬丽</li>      
-                    <li>IT问题可优先企业微信联系IT Hotline反馈</li>        
-                    <li>王微雅：域账号/邮箱/加密软件/FTP/SVN问题</li>
-                    <li>徐玉峰：打印机/域名/服务器配置等</li>
-                    <li>龚丽：OA/企业微信，戴贤停：OA/PLM，张贞：K3</li>
-                    <li>WPS激活和软件授权问题联系肖金玲</li>
-                    <li>C1-8F、9F、19F、22F、24F、25F都可用以下WIFI账号密码</li>
-                       <li style="margin-left:30px">账号：UBT        密码：U2024zynet!#</li>
-                       <li style="margin-left:30px">账号：UBT-Robot  密码：U2024zynet!#</li>
-                       <li style="margin-left:30px">账号：UBT-Guest  密码：U2024zynet!#</li>
-                       <li style="margin-left:30px">账号：UBT-Users  密码：U2024zynet!#</li>
-                       <li style="margin-left:30px">账号：UBT-Mobile 密码：U2024zynet!#</li>
-                    <li><a href="/guide/" style="color:blue">常见问题</a></li>
-              </ul>
+                    <li>先了解规则，再使用工具</li>  
+                    <li>本网站汇总IT日常工作中最常被咨询的四类信息：<b>软件合规 · 合规清单 · 电脑设置 · 系统联系人</b></li>      
+                    <li>涵盖网络连接、账户与密码、打印机与外设、系统更新等常规操作，按步骤说明，可对照执行。</li>
+                    <li>IT问题可优先企业微信联系IT Hotline反馈</li> 
+                </ul>
                 </div>
         </div>
     <!-- </div> -->

@@ -20,7 +20,7 @@ keywords:
 
 --- 
 <GlobalComponent/>
->+ <font style="color:blue;">使用软件前请了解清楚是否有经过授权，若未经过授权的软件，请不要自行去注册、下载、试用等，也请对《软件使用管理办法》有一定的了解，若有任何问题可以联系信息中心肖金玲。</font>
+>+ <font style="color:blue;">使用软件前请了解清楚是否有经过授权，若未经过授权的软件，请不要自行去注册、下载、试用等，也请对《软件使用管理办法》有一定的了解，若有任何问题可以联系信息中心xxx。</font>
 >+ <font style="color:black"> 软件授权需符合岗位需求，走<font style="font-weight: bold;" >OA 0701【软件】流程</font> 申请授权，若判定为不符合岗位需求则流程会被退回。</font>
 
 
